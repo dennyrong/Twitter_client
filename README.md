@@ -1,7 +1,7 @@
 Twitter_client
 ==============
 
-hours spend: 10 hour
+hours spend: 10 hours
 
 
 Twitter_client (swift ios)
