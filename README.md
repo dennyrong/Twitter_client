@@ -1,6 +1,9 @@
 Twitter_client
 ==============
 
+hours spend: 10 hour
+
+
 Twitter_client (swift ios)
 
  * [x] Required: User can sign in using OAuth login flow
